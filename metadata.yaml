@@ -1,0 +1,28 @@
+_repo: Good-Form-and-Christian-Etiquette_61151
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry, S. M. I. (Sarepta Myrenda Irish)
+    aliases:
+    - Henry, Sarepta Irish (Sarepta Myrenda Irish)
+    - Henry, Sarepta Myrenda Irish
+    birthdate: 1839
+    deathdate: 1900
+    gutenberg_agent_id: '51284'
+    url: http://www.gutenberg.org/2009/agents/51284
+    wikipedia: https://en.wikipedia.org/wiki/S._M._I._Henry
+description: ''
+gutenberg_issued: '2020-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette'
+- !lcc 'BJ'
+- GITenberg
+title: Good Form and Christian Etiquette
+url: http://www.gutenberg.org/ebooks/61151
